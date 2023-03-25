@@ -2,5 +2,9 @@
     border:3px solid slategray;
     padding:10px}
 .핵심{color: blue;}
+#성격{padding-left: 20px;}
+#취미{padding-left: 20px;}
+#지역{padding-left: 20px;}
+#미래{padding-left: 20px;}
 #fighting{color: blueviolet;}
 .제목{color: green;}
